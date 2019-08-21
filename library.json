@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-wtv020",
+  "title": "wtv020",
+  "keywords": "wtv020, esp32, esp8266, arduino",
+  "description": "Plugin wtv020 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-wtv020/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-wtv020/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
